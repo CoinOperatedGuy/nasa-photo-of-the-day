@@ -7,7 +7,6 @@ const Photo = (props) => {
     // var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
     // const formattedDate = new Date({props.date}).toLocaleDateString("en-US", options);
     // console.log(formattedDate)
-
     console.log("PROPS: ", props)
     
     return (
